@@ -23,8 +23,8 @@ brew install noinarisak/tap/<formula-name>
 
 ```
 brew update
-brew tap ashwanthkumar/tap
-brew install ashwanthkumar/tap/json2csv
+brew tap noinarisak/tap
+brew install noinarisak/tap/json2csv
 ```
 
 ## Resources on setting up a homebrew tap
